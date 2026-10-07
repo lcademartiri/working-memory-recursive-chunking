@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+doi: 10.5281/zenodo.23206603
 message: "If you use this software, please cite it using the metadata below."
 title: "Working-memory-gated recursive chunking: minimal reproduction"
 type: software
