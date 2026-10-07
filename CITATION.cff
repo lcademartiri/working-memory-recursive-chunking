@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Working-memory-gated recursive chunking: minimal reproduction"
+type: software
+authors:
+  - family-names: "Cademartiri"
+    given-names: "Ludovico"
+    orcid: "https://orcid.org/0000-0001-8805-9434"
+version: 1.0.0
+date-released: 2026-10-07
+repository-code: "https://github.com/lcademartiri/working-memory-recursive-chunking"
+license: MIT
