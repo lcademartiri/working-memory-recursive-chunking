@@ -1,5 +1,7 @@
 # Working-memory-gated recursive chunking: minimal reproduction
 
+[![DOI](https://zenodo.org/badge/1408427565.svg)](https://doi.org/10.5281/zenodo.23206602)
+
 This repository contains the original MATLAB V8.2 learner and nested-source generator used for the paper's synthetic capacity result. `run_reproduction.m` is a small driver for two experiments:
 
 1. The capacity gate at a fixed input interval (`C = 4:10`, `Δt = τ = 1`, 120 source realizations per capacity).
